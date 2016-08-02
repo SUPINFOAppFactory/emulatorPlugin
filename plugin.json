@@ -1,0 +1,28 @@
+{
+  "author":"SUPINFO AppFactory"
+  ,"pluginName":"App Previewer"
+  ,"pluginDescription":"The App Previewer plugin allows you to view any app under your account as you are building it out. You can even view it in draft mode to see your changes before you publish."
+  ,"supportEmail":"supinfoappfactory@supinfo.com"
+  ,"pluginIcon":"icon.png"
+  ,"licenseKey": "a4sd6-as654asd6as545a65s4d6a-65asd564a"
+  ,"control":{
+    "content":{
+      "enabled":true
+    }
+    , "design":{
+      "enabled":false
+    }
+    , "settings":{
+      "enabled":false
+    }
+  }
+  ,"widget":{
+
+  },
+  "features":[
+
+   ],
+   "languages":[
+      "en"
+   ]
+}
